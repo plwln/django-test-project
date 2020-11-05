@@ -1,0 +1,86 @@
+[
+	{
+		"name": '������ ���������',
+		"companyName": '��� "��������"',
+		"positionName": '������ ��������� ���',
+		"hireDate": '1789-04-30',
+		"fireDate": '1797-03-04',
+		"salary": 1000,
+		"fraction": 100,
+		"base": 1000,
+		"advance": 1000,
+		"byHours": false
+	},
+	{
+		name: '������ I ������� ������',
+		companyName: '��� "��������"',
+		positionName: '������ ������',
+		hireDate: '1189-01-01',
+		fireDate: '1199-05-17',
+		salary: 1000,
+		fraction: 100,
+		base: 1000,
+		advance: 1000,
+		byHours: true
+	},
+	{
+		name: '������� �������',
+		companyName: '��� "��������"',
+		positionName: '������',
+		hireDate: '1998-09-01',
+		fireDate: null,
+		salary: 1000,
+		fraction: 100,
+		base: 1000,
+		advance: 1000,
+		byHours: false
+	},
+	{
+		name: '��������� �. ��.',
+		companyName: '��� "��������"',
+		positionName: '������',
+		hireDate: '1994-04-15',
+		fireDate: null,
+		salary: 1000,
+		fraction: 100,
+		base: 1000,
+		advance: 1000,
+		byHours: false
+	},
+	{
+		name: '���������� �.',
+		companyName: '��� "��������"',
+		positionName: '�����',
+		hireDate: '1000-01-01',
+		fireDate: '2941-10-09',
+		salary: 1000,
+		fraction: 100,
+		base: 1000,
+		advance: 1000,
+		byHours: false
+	},
+	{
+		name: '����������� �. �.',
+		companyName: '��� "��������"',
+		positionName: '������� � �������',
+		hireDate: '1770-11-08',
+		fireDate: null,
+		salary: 1000,
+		fraction: 100,
+		base: 1000,
+		advance: 1000,
+		byHours: false
+	},
+	{
+		name: '������ �. �.',
+		companyName: '"Planet Express"',
+		positionName: '�����-����������',
+		hireDate: '2997-03-27',
+		fireDate: null,
+		salary: 1000,
+		fraction: 100,
+		base: 1000,
+		advance: 1000,
+		byHours: true
+	}
+]
